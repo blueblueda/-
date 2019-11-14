@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "猜数字", "猜数字\猜数字.vcxproj", "{44E83FB5-C6D8-4C6C-8E2F-9B47CC0A3445}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44E83FB5-C6D8-4C6C-8E2F-9B47CC0A3445}.Debug|x64.ActiveCfg = Debug|x64
+		{44E83FB5-C6D8-4C6C-8E2F-9B47CC0A3445}.Debug|x64.Build.0 = Debug|x64
+		{44E83FB5-C6D8-4C6C-8E2F-9B47CC0A3445}.Debug|x86.ActiveCfg = Debug|Win32
+		{44E83FB5-C6D8-4C6C-8E2F-9B47CC0A3445}.Debug|x86.Build.0 = Debug|Win32
+		{44E83FB5-C6D8-4C6C-8E2F-9B47CC0A3445}.Release|x64.ActiveCfg = Release|x64
+		{44E83FB5-C6D8-4C6C-8E2F-9B47CC0A3445}.Release|x64.Build.0 = Release|x64
+		{44E83FB5-C6D8-4C6C-8E2F-9B47CC0A3445}.Release|x86.ActiveCfg = Release|Win32
+		{44E83FB5-C6D8-4C6C-8E2F-9B47CC0A3445}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71A26739-F9C5-43FD-A696-9A79BA3F842E}
+	EndGlobalSection
+EndGlobal
